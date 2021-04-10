@@ -7,7 +7,8 @@ Pequeño proyecto utilizando la API de Coinbase y Binance
 
 > Para esto nos basaremos en un análisis técnico en el que aplicaremos indicadores o índices, es decir formulas matemáticas y estadísticas que se aplicarán en las series de precios y volumenes. Precio de las cotizaciones o acciones etc... 
 > ```
-> Cuyo objetivo será definir un algoritmo en el que basándonos en estos indicadores se tome una decisión de compra o venta. Obviamente la pasta importa 💸 💶
+> Cuyo objetivo será definir un algoritmo en el que basándonos en estos
+> indicadores se tome una decisión de compra o venta. Obviamente la pasta importa 💸 💶
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
